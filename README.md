@@ -1,4 +1,3 @@
-# Fundamentals-of-Business-Management aa 2025/2026
 # Cost Foresight – Forecasting Production Costs in the Steel Industry
 
 ## Project Overview
